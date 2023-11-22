@@ -51,7 +51,11 @@ h4{
 h5{
     color: bisque;
 }
-.navbar.scrolled{
-    background:rgba(222, 192, 222, 0.89);
-    transition: background 500ms;
+.card-text{
+    max-width: 100%;
+    
+}
+ul{
+    list-style-type: none;
+    font-size: 1rem;
 }
